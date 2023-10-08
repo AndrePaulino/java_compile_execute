@@ -1,6 +1,6 @@
 # Java Primeiros Passos
 
-Código desenvolvido a partir do curso - [_Java JRE e JDK: compile e execute o seu programa_](https://unibb.alura.com.br/course/java-primeiros-passos) da escola Alura
+Código desenvolvido a partir do curso - [_Java JRE e JDK: compile e execute o seu programa_](https://alura.com.br/course/java-primeiros-passos) da escola Alura
 
 <br>
 
